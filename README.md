@@ -58,10 +58,21 @@ Durante o projeto, eu:
 
 ## 📂 Estrutura do projeto
 
-📁 projeto-ecommerce
-│
+```text
+├── Análise_de_Vendas_de_E_commerce.ipynb   # notebook principal
+└── README.md
+```
 
-├── 
-📊 analise_vendas.ipynb
-├── 
-📄 README.md
+---
+
+## ▶️ Como executar
+
+1. Abra o notebook no **Google Colab** ou Jupyter
+2. Execute as células em ordem — o dataset é carregado pelo KaggleHub
+3. As análises e gráficos são gerados automaticamente
+
+---
+
+## 👨‍💻 Autor
+
+**Rodrigo Rocha** — [GitHub](https://github.com/Rodrigoldarocha) · [LinkedIn](https://www.linkedin.com/in/rodrigo-rocha-19249170/)
